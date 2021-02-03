@@ -16,11 +16,13 @@ Some uses:
 
 ## Getting Started
 
-Coming soon...
-
 The idea is that you can run a simple `docker-compose up -d` in the root of the repository on any system and start a kata immediately.
 
+This functionality is coming soon.
+
 ## Contributing
+
+Look for items on the [project kanban board](https://github.com/samdotme/mage2-katas/projects/1):
 
 We will create a Contributing.md file soon. Please feel free to PR prior to that however!
 
